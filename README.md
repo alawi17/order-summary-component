@@ -26,8 +26,8 @@ This is a solution to the [Order summary component challenge on Frontend Mentor]
 
 ### Links
 
-- Solution URL: [Solution]()
-- Live Site URL: [Live Site]()
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/order-summary-card-mobilefirst-css-grid-flexbox-DYm4VxXya4)
+- Live Site URL: [Live Site](https://alw-order-summary-card.netlify.app/)
 
 ## My process
 
